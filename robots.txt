@@ -39,4 +39,4 @@ Disallow: /
 
 # Google-Extended is allowed by the wildcard rule so Gemini Apps can ground answers
 # in the public blog. Google documents this token as also covering model training.
-Sitemap: https://xrwang8.github.io/ai-infra/sitemap.xml
+Sitemap: https://xrwang8.github.io/sitemap.xml
